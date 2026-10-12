@@ -990,6 +990,7 @@
     "download_failed": "Descàrrega fallida",
     "download_failed_network_offline": "S'ha perdut la connexió",
     "download_failed_file_error": "Alguns fitxers han fallat",
+    "download_failed_blob_creation_failed": "",
     "retry": "Reintenta",
     "download_progress": "{{count, number}} / {{total, number}} fitxers",
     "christmas": "Nadal",

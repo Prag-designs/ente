@@ -990,6 +990,7 @@
     "download_failed": "Stahování selhalo",
     "download_failed_network_offline": "Spojení ztraceno",
     "download_failed_file_error": "Některé soubory se nepodařilo stáhnout",
+    "download_failed_blob_creation_failed": "",
     "retry": "Opakovat",
     "download_progress": "{{count, number}} / {{total, number}} souborů",
     "christmas": "Vánoce",

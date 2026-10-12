@@ -990,6 +990,7 @@
     "download_failed": "ڈاؤن لوڈ ناکام",
     "download_failed_network_offline": "کنکشن کھو گیا",
     "download_failed_file_error": "کچھ فائلیں ناکام ہوئیں",
+    "download_failed_blob_creation_failed": "",
     "retry": "دوبارہ کوشش کریں",
     "download_progress": "{{count, number}} / {{total, number}} فائلیں",
     "christmas": "کرسمس",

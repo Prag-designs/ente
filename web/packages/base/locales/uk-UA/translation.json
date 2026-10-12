@@ -990,6 +990,7 @@
     "download_failed": "Не вдалося завантажити",
     "download_failed_network_offline": "З'єднання втрачено",
     "download_failed_file_error": "Не вдалося завантажити деякі файли",
+    "download_failed_blob_creation_failed": "",
     "retry": "Повторити",
     "download_progress": "{{count, number}} / {{total, number}} файлів",
     "christmas": "Різдво",

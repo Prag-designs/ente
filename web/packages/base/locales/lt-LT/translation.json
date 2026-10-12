@@ -990,6 +990,7 @@
     "download_failed": "Atsisiuntimas nepavyko.",
     "download_failed_network_offline": "Ryšys prarastas.",
     "download_failed_file_error": "Kai kurie failai nepavyko.",
+    "download_failed_blob_creation_failed": "",
     "retry": "Kartoti",
     "download_progress": "{{count, number}} / {{total, number}} failai",
     "christmas": "Kalėdos",

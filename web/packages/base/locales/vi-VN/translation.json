@@ -990,6 +990,7 @@
     "download_failed": "Tải xuống thất bại",
     "download_failed_network_offline": "Mất kết nối",
     "download_failed_file_error": "Vài tệp thất bại",
+    "download_failed_blob_creation_failed": "",
     "retry": "Thử lại",
     "download_progress": "{{count, number}} / {{total, number}} tệp",
     "christmas": "Giáng Sinh",

@@ -990,6 +990,7 @@
     "download_failed": "Download fallito",
     "download_failed_network_offline": "",
     "download_failed_file_error": "",
+    "download_failed_blob_creation_failed": "",
     "retry": "",
     "download_progress": "{{count, number}} / {{total, number}} file",
     "christmas": "Natale",

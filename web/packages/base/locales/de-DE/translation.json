@@ -990,6 +990,7 @@
     "download_failed": "Herunterladen fehlgeschlagen",
     "download_failed_network_offline": "Verbindung verloren",
     "download_failed_file_error": "Einige Dateien sind fehlgeschlagen",
+    "download_failed_blob_creation_failed": "",
     "retry": "Erneut versuchen",
     "download_progress": "{{count, number}} / {{total, number}} Dateien",
     "christmas": "Weihnachten",

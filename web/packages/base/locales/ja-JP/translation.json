@@ -990,6 +990,7 @@
     "download_failed": "ダウンロードに失敗しました",
     "download_failed_network_offline": "",
     "download_failed_file_error": "",
+    "download_failed_blob_creation_failed": "",
     "retry": "",
     "download_progress": "{{count, number}} / {{total, number}}ファイル",
     "christmas": "クリスマス",
